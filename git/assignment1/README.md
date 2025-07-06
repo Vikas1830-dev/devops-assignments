@@ -38,10 +38,7 @@ To demonstrate basic Git operations: creating a folder, adding files, selectivel
    - `Code.txt`: Contains dummy code
    - `Log.txt`: Log output (not committed)
    - `Output.txt`: Simulated output
-4. Created two documentation files:
-   - `README.md`: Describes the assignment and commands used
-   - `instructions.md`: Task breakdown in markdown format
-5. Went back to the project root and staged only the required files:
+4. Went back to the project root and staged only the required files:
    - `Code.txt`
    - `Output.txt`
    - `README.md`
